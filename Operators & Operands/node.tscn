@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://vya1uy4xgxnp"]
+
+[ext_resource type="Script" uid="uid://eeajk0n6f8ac" path="res://Operators & Operands/script.gd" id="1_nm22i"]
+
+[node name="Operators & Operands" type="Node2D"]
+script = ExtResource("1_nm22i")
